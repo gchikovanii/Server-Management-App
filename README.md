@@ -1,5 +1,5 @@
 # Network Management System
-This Angular application is a network management system designed to simulate tracking network traffic, sending tickets for problem resolution, and managing ticket statuses (open and close). The purpose of this project is to learn and implement various Angular features.
+This Angular application is a network management system designed to simulate tracking network traffic, sending tickets for problem resolution, and managing ticket statuses (open and close). The purpose of this project is to learn and implement various modern Angular features.
 
 # Features
 
